@@ -11,7 +11,7 @@ Project summary
    * - **Technology**
      - Illumina
    * - **Date**
-     - 16 06 2026
+     - 17 06 2026
    * - **Advisor**
      - Nadia Queralt Ortega
    * - **Contact**

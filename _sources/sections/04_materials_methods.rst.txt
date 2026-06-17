@@ -39,7 +39,7 @@ Pipeline parameters used in this run
    Run ID:        RUN001
    Technology:    Illumina
    Top taxa (N):  10
-   Date:          16 06 2026
+   Date:          17 06 2026
 
 .. TODO::
 
