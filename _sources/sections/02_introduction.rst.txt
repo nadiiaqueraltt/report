@@ -1,0 +1,47 @@
+Introduction
+============
+
+The aim of this document is to drive you through the reading of the analysis
+performed by the FISABIO's Bioinformatics Service, providing a user-friendly
+approach to metagenomics.
+
+By clicking on hyperlinks it is possible to navigate among the table of
+contents, figures, tables and bibliographic references.
+
+All generated figures can be found in the ``images/`` folder. Each file name
+self-explains the data. Figures are provided in PNG (Portable Network Graphic)
+format. For direct editing of the PNG images we suggest the use of the Open
+Source software `Inkscape <https://inkscape.org/>`_.
+
+Tables are formatted by tabs producing standard ``.tsv`` files. All tables
+can be easily imported in almost every spreadsheet software.
+
+If a file is very big in size, we store it in the ``gzip`` format, a common
+unix compression algorithm. It can be easily unzipped with:
+
+.. code-block:: bash
+
+   # Decompress a single gzip file
+   gunzip file.gz
+
+   # Compress a file
+   gzip file
+
+Another kind of file which includes a tree folder structure is labeled by the
+extension ``.tar.gz`` and can be decompressed using:
+
+.. code-block:: bash
+
+   # only unix systems
+   tar xvzf file.tar.gz
+
+In **Microsoft Windows** systems, standard decompressing tools should be able
+to access these kinds of files.
+
+We hope you find this report helpful and for any suggestion or bug
+notification, please contact us by e-mail to: nadiiaqueraltt@gmail.com.
+
+.. TODO::
+
+   Optionally extend the introduction with project-specific context,
+   research questions, or hypotheses.
