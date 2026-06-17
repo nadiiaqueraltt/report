@@ -1,0 +1,23 @@
+Project summary
+===============
+
+.. list-table::
+   :widths: 40 60
+
+   * - **Project**
+     - PRUEBA01
+   * - **Run ID**
+     - RUN001
+   * - **Technology**
+     - Illumina
+   * - **Date**
+     - 16 06 2026
+   * - **Advisor**
+     - Nadia Queralt Ortega
+   * - **Contact**
+     - nadiiaqueraltt@gmail.com
+
+.. TODO::
+
+   Add any additional project-specific notes here (e.g. sample origin,
+   sequencing depth, special conditions).

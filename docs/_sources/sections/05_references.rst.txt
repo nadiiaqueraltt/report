@@ -1,0 +1,116 @@
+References
+==========
+
+.. [tamames2018]
+   Tamames, J., & Puente-Sánchez, F. (2018).
+   *SqueezeMeta, a highly portable, fully automatic metagenomic analysis pipeline.*
+   Frontiers in Microbiology, 9, 3349.
+   https://doi.org/10.3389/fmicb.2018.03349
+
+.. [megahit2015]
+   Li, D., Liu, C. M., Luo, R., Sadakane, K., & Lam, T. W. (2015).
+   *MEGAHIT: an ultra-fast single-node solution for large and complex
+   metagenomics assembly via succinct de Bruijn graph.*
+   Bioinformatics, 31(10), 1674-1676.
+   https://doi.org/10.1093/bioinformatics/btv033
+
+.. [spades2012]
+   Bankevich, A., Nurk, S., Antipov, D., Gurevich, A. A., Dvorkin, M.,
+   Kulikov, A. S., Lesin, V. M., Nikolenko, S. I., Pham, S., Prjibelski,
+   A. D., Pyshkin, A. V., Sirotkin, A. V., Vyahhi, N., Tesler, G.,
+   Alekseyev, M. A., & Pevzner, P. A. (2012).
+   *SPAdes: a new genome assembly algorithm and its applications to
+   single-cell sequencing.*
+   Journal of Computational Biology, 19(5), 455-477.
+   https://doi.org/10.1089/cmb.2012.0021
+
+.. [canu2017]
+   Koren, S., Walenz, B. P., Berlin, K., Miller, J. R., Bergman, N. H.,
+   & Phillippy, A. M. (2017).
+   *Canu: scalable and accurate long-read assembly via adaptive k-mer
+   weighting and repeat separation.*
+   Genome Research, 27(5), 722-736.
+   https://doi.org/10.1101/gr.215087.116
+
+.. [cdhit2012]
+   Fu, L., Niu, B., Zhu, Z., Wu, S., & Li, W. (2012).
+   *CD-HIT: accelerated for clustering the next-generation sequencing data.*
+   Bioinformatics, 28(23), 3150-3152.
+   https://doi.org/10.1093/bioinformatics/bts565
+
+.. [bowtie2012]
+   Langmead, B., & Salzberg, S. L. (2012).
+   *Fast gapped-read alignment with Bowtie 2.*
+   Nature Methods, 9(4), 357-359.
+   https://doi.org/10.1038/nmeth.1923
+
+.. [minimap2018]
+   Li, H. (2018).
+   *Minimap2: pairwise alignment for nucleotide sequences.*
+   Bioinformatics, 34(18), 3094-3100.
+   https://doi.org/10.1093/bioinformatics/bty191
+
+.. [bwa2009]
+   Li, H., & Durbin, R. (2009).
+   *Fast and accurate short read alignment with Burrows-Wheeler transform.*
+   Bioinformatics, 25(14), 1754-1760.
+   https://doi.org/10.1093/bioinformatics/btp324
+
+.. [diamond2015]
+   Buchfink, B., Xie, C., & Huson, D. H. (2015).
+   *Fast and sensitive protein alignment using DIAMOND.*
+   Nature Methods, 12, 59-60.
+   https://doi.org/10.1038/nmeth.3176
+
+.. [prodigal2010]
+   Hyatt, D., Chen, G. L., LoCascio, P. F., Land, M. L., Larimer, F. W.,
+   & Hauser, L. J. (2010).
+   *Prodigal: prokaryotic gene recognition and translation initiation
+   site identification.*
+   BMC Bioinformatics, 11, 119.
+   https://doi.org/10.1186/1471-2105-11-119
+
+.. [hmmer2011]
+   Eddy, S. R. (2011).
+   *Accelerated profile HMM searches.*
+   PLoS Computational Biology, 7(10), e1002195.
+   https://doi.org/10.1371/journal.pcbi.1002195
+
+.. [rnammer2007]
+   Lagesen, K., Hallin, P., Rødland, E. A., Stærfeldt, H. H., Rognes, T.,
+   & Ussery, D. W. (2007).
+   *RNAmmer: consistent and rapid annotation of ribosomal RNA genes.*
+   Nucleic Acids Research, 35(9), 3100-3108.
+   https://doi.org/10.1093/nar/gkm160
+
+.. [aragorn2004]
+   Laslett, D., & Canback, B. (2004).
+   *ARAGORN, a program to detect tRNA genes and tmRNA genes in
+   nucleotide sequences.*
+   Nucleic Acids Research, 32(1), 11-16.
+   https://doi.org/10.1093/nar/gkh152
+
+.. [rdpclassifier2007]
+   Wang, Q., Garrity, G. M., Tiedje, J. M., & Cole, J. R. (2007).
+   *Naive Bayesian classifier for rapid assignment of rRNA sequences
+   into the new bacterial taxonomy.*
+   Applied and Environmental Microbiology, 73(16), 5261-5267.
+   https://doi.org/10.1128/AEM.00062-07
+
+.. [ondov2011]
+   Ondov, B. D., Bergman, N. H., & Phillippy, A. M. (2011).
+   *Interactive metagenomic visualization in a Web browser.*
+   BMC Bioinformatics, 12, 385.
+   https://doi.org/10.1186/1471-2105-12-385
+
+.. [rcoreteam]
+   R Core Team (2012).
+   *R: A language and environment for statistical computing.*
+   R Foundation for Statistical Computing, Vienna, Austria.
+   https://www.R-project.org/
+
+.. [wickham2016]
+   Wickham, H. (2016).
+   *ggplot2: Elegant Graphics for Data Analysis.*
+   Springer-Verlag New York.
+   https://ggplot2.tidyverse.org
